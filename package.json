@@ -1,0 +1,22 @@
+{
+  "name": "example-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzbandai/example-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzbandai/example-express/issues"
+  },
+  "homepage": "https://github.com/kzbandai/example-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
